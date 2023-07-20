@@ -10,10 +10,12 @@ A cada aposta (chave) gerada ou inserida manualmente, o sistema deve indicar ao 
 
 O sistema apenas reconhece utilizadores anónimos e, na base de dados, apenas guarda as apostas (chaves) registadas.
 
+-----------------------------------------
+
+# PARA RODAR O BACKEND E FRONTEND
+
+npm run init; //para instalar dependencias do backend e fronted
+
+npm run dev;//para rodar os servidores
 
 
-Para correr o BACKEND
-
-cd backend; //para entrar no diretorio backend
-npm  install; //para instalar dependencias do backend 
-npm run dev; //para rodar os servidores do backend
