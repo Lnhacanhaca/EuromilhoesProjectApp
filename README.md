@@ -16,6 +16,6 @@ O sistema apenas reconhece utilizadores anónimos e, na base de dados, apenas gu
 
 npm run init; //para instalar dependencias do backend e fronted
 
-npm run dev;//para rodar os servidores
+npm run dev; //para rodar os servidores
 
 
