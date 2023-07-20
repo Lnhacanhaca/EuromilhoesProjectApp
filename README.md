@@ -11,7 +11,7 @@ A cada aposta (chave) gerada ou inserida manualmente, o sistema deve indicar ao 
 O sistema apenas reconhece utilizadores anónimos e, na base de dados, apenas guarda as apostas (chaves) registadas.
 
 
-
+---------------------------------------
 Para correr o BACKEND
 
 cd backend; //para entrar no diretorio backend
