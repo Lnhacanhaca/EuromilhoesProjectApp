@@ -1,3 +1,4 @@
+# MiniProjEspecial
 # EuromilhoesProjectApp
 
 Descrição do tema: Geração de chave do euromilhões.
@@ -18,4 +19,10 @@ npm run init; //para instalar dependencias do backend e fronted
 
 npm run dev; //para rodar os servidores
 
+---------------------------------------
 
+Para correr o BACKEND
+
+cd backend; //para entrar no diretorio backend
+npm  install; //para instalar dependencias do backend 
+npm run dev; //para rodar os servidores do backend
