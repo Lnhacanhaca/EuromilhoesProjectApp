@@ -21,8 +21,3 @@ npm run dev; //para rodar os servidores
 
 ---------------------------------------
 
-Para correr o BACKEND
-
-cd backend; //para entrar no diretorio backend
-npm  install; //para instalar dependencias do backend 
-npm run dev; //para rodar os servidores do backend
