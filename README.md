@@ -12,7 +12,7 @@ O sistema apenas reconhece utilizadores anónimos e, na base de dados, apenas gu
 
 
 ---------------------------------------
-Para correr o BACKEND
+# Para correr o BACKEND
 
 cd backend; //para entrar no diretorio backend
 
