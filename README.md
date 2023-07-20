@@ -9,3 +9,11 @@ Os números são inteiros, com valor entre 1 e 50, sem repetições, e as estrel
 A cada aposta (chave) gerada ou inserida manualmente, o sistema deve indicar ao utilizador se a combinação já foi usada alguma vez. Também permitirá ao utilizador "registar" a aposta em causa, guardando-a em base de dados.
 
 O sistema apenas reconhece utilizadores anónimos e, na base de dados, apenas guarda as apostas (chaves) registadas.
+
+
+
+Para correr o BACKEND
+
+cd backend; //para entrar no diretorio backend
+npm  install; //para instalar dependencias do backend 
+npm run dev; //para rodar os servidores do backend
